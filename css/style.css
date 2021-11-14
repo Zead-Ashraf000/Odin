@@ -164,7 +164,7 @@ main section.s3 {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background-color: #a2a0ab;
+	background-color: #183954;
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
@@ -178,11 +178,7 @@ main section.s3 {
 	display: flex;
 	justify-content: flex-start;
 	align-items: center;
-	background: rgb(255,0,249);
-	background: -moz-linear-gradient(90deg, rgba(255,0,249,1) 0%, rgba(37,37,126,1) 33%, rgba(25,92,166,1) 53%, rgba(0,212,255,1) 74%);
-	background: -webkit-linear-gradient(90deg, rgba(255,0,249,1) 0%, rgba(37,37,126,1) 33%, rgba(25,92,166,1) 53%, rgba(0,212,255,1) 74%);
-	background: linear-gradient(90deg, rgba(255,0,249,1) 0%, rgba(37,37,126,1) 33%, rgba(25,92,166,1) 53%, rgba(0,212,255,1) 74%);
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff00f9",endColorstr="#00d4ff",GradientType=1);
+	background-color: #2096f3;
 	border-radius: 20px;
 }
 
@@ -223,7 +219,7 @@ main section.s3 {
 
 @media (max-width: 991px)   {
 	.s3 {
-		height: 257vh !important;
+		height: 150vh !important;
 		flex-direction: column;
 	}
 
